@@ -11,7 +11,7 @@
 
 $w.x - b  = 0$\
 $w.x_i - b \geq 1$ if $y_i =1$\
-$w.x_i - b \leq 1$ if $y_i =-1$
+$w.x_i - b \leq -1$ if $y_i =-1$
 
 *The equation to solve for optimization is:*
 
